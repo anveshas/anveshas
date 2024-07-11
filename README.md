@@ -23,12 +23,16 @@ I'm a software engineer with a passion for solving complex problems and building
 - **LinkedIn**: [Anvesha Srivastava](https://www.linkedin.com/in/anvesha-srivastava-41babb25a/)
 
 ## Connect with me:
-[![Nandini Jindal](https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.png)](https://www.linkedin.com/in/anvesha-srivastava-41babb25a/)
-<!---  [![nandini805](https://img.shields.io/badge/nandini805-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/nandu8054)
-[![nandiniji127q](https://img.shields.io/badge/nandiniji127q-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/nandiniji127q)
+[![Anvesha Srivastava](https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.png)](https://www.linkedin.com/in/anvesha-srivastava-41babb25a/)
+
+[![Anvesha Srivastava](https://cdn.pixabay.com/photo/2015/03/10/17/30/twitter-667462_640.png)](https://x.com/Anvesha91091051/)
+
+[![Anvesha Srivastava](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvhFQX5MMDl81fsQPbYdEnsO0g8d6QWdjQ5g&s)](https://leetcode.com/u/diya9/)
+
+[![Anvesha Srivastava]([https://img.shields.io/badge/nandiniji127q-7289DA?style=flat&logo=discord&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEcv_WJfqB-tC3ZFADRoUMMMTtOA6ZzyAA6g&s))](https://www.codechef.com/users/sanvesha28)
 
 ## Languages and Tools:
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -44,14 +48,15 @@ I'm a software engineer with a passion for solving complex problems and building
 
 ![GIF](https://user-images.githubusercontent.com/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 📊 GitHub Stats:
+<!--- ## 📊 GitHub Stats:
 ![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandini80&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandini80&layout=compact&theme=radical)
 Steps to Implement
 
 ## 📄 Know about my experiences:
-[Resume](https://path/to/your/resume) -->
+[Resume](https://path/to/your/resume)
 
-
-<!--- 💬 Ask me about ...-->
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
+![GIF](https://user-images.githubusercontent.com/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+💬 Ask me about ...-->
