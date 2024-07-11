@@ -23,13 +23,26 @@ I'm a software engineer with a passion for solving complex problems and building
 - **LinkedIn**: [Anvesha Srivastava](https://www.linkedin.com/in/anvesha-srivastava-41babb25a/)
 
 ## Connect with me:
-[![Anvesha Srivastava](https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.png)](https://www.linkedin.com/in/anvesha-srivastava-41babb25a/)
+<a href="https://www.linkedin.com/in/anvesha-srivastava-41babb25a/">
+  <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.png" alt="LinkedIn" width="40" height="40">
+</a>
+<a href="https://x.com/Anvesha91091051/">
+  <img src="https://cdn.pixabay.com/photo/2015/03/10/17/30/twitter-667462_640.png" alt="Twitter" width="40" height="40">
+</a>
+<a href="https://leetcode.com/u/diya9/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvhFQX5MMDl81fsQPbYdEnsO0g8d6QWdjQ5g&s" alt="LeetCode" width="40" height="40">
+</a>
+<a href="https://www.codechef.com/users/sanvesha28">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEcv_WJfqB-tC3ZFADRoUMMMTtOA6ZzyAA6g&s" alt="CodeChef" width="40" height="40">
+</a>
+
+<!-- [![Anvesha Srivastava](https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.png)](https://www.linkedin.com/in/anvesha-srivastava-41babb25a/)
 
 [![Anvesha Srivastava](https://cdn.pixabay.com/photo/2015/03/10/17/30/twitter-667462_640.png)](https://x.com/Anvesha91091051/)
 
 [![Anvesha Srivastava](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvhFQX5MMDl81fsQPbYdEnsO0g8d6QWdjQ5g&s)](https://leetcode.com/u/diya9/)
 
-[![Anvesha Srivastava]([https://img.shields.io/badge/nandiniji127q-7289DA?style=flat&logo=discord&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEcv_WJfqB-tC3ZFADRoUMMMTtOA6ZzyAA6g&s))](https://www.codechef.com/users/sanvesha28)
+[![Anvesha Srivastava]([https://img.shields.io/badge/nandiniji127q-7289DA?style=flat&logo=discord&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEcv_WJfqB-tC3ZFADRoUMMMTtOA6ZzyAA6g&s))](https://www.codechef.com/users/sanvesha28) -->
 
 ## Languages and Tools:
 
