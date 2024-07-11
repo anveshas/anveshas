@@ -13,11 +13,10 @@ Here are some ideas to get you started:-->
 I'm a software engineer with a passion for solving complex problems and building scalable applications. I have experience with various programming languages and frameworks, and I'm always eager to learn more and take on new challenges.
 
 ✨ I’m @anveshas  
-🔭 I’ve worked on several projects using MERN stack, Next.js, etc.  
+🔭 I’ve worked on several projects using MERN stack, Next.js, TypeScript, etc.  
 🔭 I’m currently working on my DSA Skills  
 🌱 I’m currently learning Machine Learning.  
-👯 I’m looking to collaborate on exciting projects.  
-🤔 I’m looking for help with ...
+👯 I’m looking to collaborate on exciting projects.
 
 
 📫 How to reach me:
