@@ -1,7 +1,14 @@
 <!--
 **anveshas/anveshas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
-## Hi there 👋, I'm Anvesha Srivastava
+<!--## Hi there 👋, I'm Anvesha Srivastava-->
+<p align="center">
+  Hi there 👋, I'm Anvesha Srivastava
+</p>
+
+<p align="center">
+  <img src="[https://example.com/your-image.png](https://dtmvamahs40ux.cloudfront.net/gl-academy/course/course-1199-Free%20Data%20Sources.jpg)" alt="Image">
+</p>
 
 I'm a software engineer with a passion for solving complex problems and building scalable applications. I have experience with various programming languages and frameworks, and I'm always eager to learn more and take on new challenges.
 
