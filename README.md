@@ -14,7 +14,7 @@ I'm a web developer with a passion for solving complex problems and building sca
 
 ✨ I’m @anveshas  
 🔭 I’ve worked on several projects using MERN stack, Next.js, TypeScript, etc.  
-🔭 I’m currently working on my DSA Skills  
+⚡ I’m currently working on my DSA Skills  
 🌱 I’m currently learning Machine Learning.  
 👯 I’m looking to collaborate on exciting projects.
 
