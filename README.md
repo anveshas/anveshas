@@ -19,19 +19,19 @@ I'm a web developer with a passion for solving complex problems and building sca
 ## 🌐 Connect with me:
 <a href="https://www.linkedin.com/in/anvesha-srivastava-41babb25a/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40">
-</a>
+</a> 
 <a href="https://x.com/Anvesha91091051/">
   <img src="https://cdn.pixabay.com/photo/2015/03/10/17/30/twitter-667462_640.png" alt="Twitter" width="40" height="40">
-</a>
+</a> 
 <a href="https://leetcode.com/u/diya9/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40">
-</a>
+</a> 
 <a href="https://www.codechef.com/users/sanvesha28">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEcv_WJfqB-tC3ZFADRoUMMMTtOA6ZzyAA6g&s" alt="CodeChef" width="40" height="40">
-</a>
+</a> 
 <a href="https://www.hackerrank.com/profile/sanvesha28">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40">
-</a>
+</a> 
 <a href="https://www.geeksforgeeks.org/user/anveshas/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="40" height="40"/></a>
 
 ## 💻 Languages and Tools:
