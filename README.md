@@ -30,7 +30,7 @@ I'm a web developer with a passion for solving complex problems and building sca
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEcv_WJfqB-tC3ZFADRoUMMMTtOA6ZzyAA6g&s" alt="CodeChef" width="60" height="60">
 </a>
 <a href="https://www.hackerrank.com/profile/sanvesha28">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" width="60" height="60">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" width="80" height="60">
 </a>
 
 ## 💻 Languages and Tools:
