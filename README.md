@@ -40,13 +40,13 @@ I'm a web developer with a passion for solving complex problems and building sca
 <img src="https://user-images.githubusercontent.com/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" width="300">-->
 
 ## 📊 GitHub Stats:
-<p>
+<!--<p>
   <img src="https://github-readme-stats.vercel.app/api?username=anveshas&show_icons=true&theme=radical" alt="Anvesha's GitHub Stats" width="400" height="200">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anveshas&layout=compact&theme=radical" alt="Top Languages" width="400" height="200">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anveshas&theme=radical" alt="GitHub Streak Stats" width="400" height="200">
 </p>
-<!--![Anvesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anveshas&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anveshas&layout=compact&theme=radical) -->
+![Anvesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anveshas&show_icons=true&theme=radical) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anveshas&layout=compact&theme=radical) 
 
 <!--
 ## 📄 Know about my experiences:
